@@ -4,7 +4,7 @@ This is a real estate website that allows users to view properties and contact r
 
 ## Course
 
-This project is part of the Web Development course by Jonas Schmedtmann. The course covers HTML, CSS, JavaScript, and various web development tools and practices.
+This project is part of the Web Development course by Jonas Schmedtmann. The course covers HTML, CSS, JavaScript, sass, and various web development tools and practices.
 
 ## Author
 
